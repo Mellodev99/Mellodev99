@@ -1,4 +1,4 @@
-# Olá, eu sou o Luan! 👋
+# Olá, eu sou Luan! 👋
 
 | Sobre mim 
 
