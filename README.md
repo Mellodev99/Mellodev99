@@ -2,7 +2,8 @@
 
 | Sobre mim 
 
-  Sou estudante de **Ciência da Computação** no **IF Baiano – Campus Senhor do Bonfim**, com foco na construção de uma base sólida em desenvolvimento de software. <br><br> Tenho interesse em programação, desenvolvimento web e na aplicação prática dos fundamentos da computação por meio de projetos e estudos contínuos. <br><br> Busco evoluir, aprender boas práticas e desenvolver soluções bem estruturadas, priorizando organização, clareza de código e aprendizado constante. | <img src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-developers-are-coding-programs-on-computers-programmers-are-analyzing-data-png-image_11902650.png" width="300"/> 
+  Sou estudante de **Ciência da Computação** no **IF Baiano – Campus Senhor do Bonfim**, com foco na construção de uma base sólida em desenvolvimento de software. <br><br> Tenho interesse em programação, desenvolvimento web e na aplicação prática dos fundamentos da computação por meio de projetos e estudos contínuos. <br><br> Busco evoluir, aprender boas práticas e desenvolver soluções bem estruturadas, priorizando organização, clareza de código e aprendizado constante. 
+  <br> <img src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-developers-are-coding-programs-on-computers-programmers-are-analyzing-data-png-image_11902650.png" width="300"/> 
 
 ## O que estou desenvolvendo atualmente
 - Estudos em **lógica de programação** e **estruturação de código**
